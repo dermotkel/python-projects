@@ -1,3 +1,5 @@
+# Dermot Kelleher - Excercise 1 and 2 - programming and scripting - 2018
+
 # Ian McLoughlin
 # A program that displays Fibonacci numbers using people's names.
 
